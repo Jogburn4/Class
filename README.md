@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link href="Fun.css" rel="stylesheet" type:text/css">
+  <link href="fun.css" rel="stylesheet" type:Class/css">
 </head>
 <body>
 <h1>Is this working<h1>
